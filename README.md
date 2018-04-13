@@ -1,7 +1,6 @@
-This is a python code to plot the [bifurcation diagram](https://en.wikipedia.org/wiki/Bifurcation_diagram) for several well-known maps in mathematics, also a ample fortran code is available to produce bifurcation diagram just for logistic maps, but it can be easily changed in the source of the code. 
+This is a python code to plot the [bifurcation diagram](https://en.wikipedia.org/wiki/Bifurcation_diagram) for several well-known maps in mathematics, also a sample fortran code is available to produce bifurcation diagram just for logistic maps, but the map can be easily changed in the source of the code. 
 
 take Gaussian map as an example for more explanations:
-
 
 In mathematics, the Gauss map (also known as Gaussian map or mouse map), is a nonlinear iterated map of the reals into a real interval given by the Gaussian function:
 
