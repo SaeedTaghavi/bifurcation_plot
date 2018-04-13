@@ -16,6 +16,7 @@ This python script will plot bifurcation diagram of the Gaussian map for differe
 It is a good example for plotting and adding legend, title, axis label to a plot in python.
 
 ![My image](https://github.com/SaeedTaghavi/bifurcation_plot/blob/master/fortran_biforcation/bifurcation.png)
+
 *bifurcation diagram for the logistic map using the fortran code*
 
 <p align="center">
