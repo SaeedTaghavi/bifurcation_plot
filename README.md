@@ -16,3 +16,8 @@ This python script will plot bifurcation diagram of the Gaussian map for differe
 It is a good example for plotting and adding legend, title, axis label to a plot in python.
 
 ![My image](https://github.com/SaeedTaghavi/bifurcation_plot/blob/master/gaussian_map.png)
+
+<p align="center">
+  <img src="https://github.com/SaeedTaghavi/bifurcation_plot/blob/master/b%3D5.0.png" width="350"/>
+  <img src="https://github.com/SaeedTaghavi/bifurcation_plot/blob/master/b%3D4.0.png" width="350"/>
+</p>
